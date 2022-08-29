@@ -1,0 +1,52 @@
+.container{
+    justify-content: space-between;
+    align-content: center;
+    display: flex;
+    height: 70px;
+  
+    border-color: #f88a88;
+    border-style: solid;
+    border-radius: 1%;
+    border-width: 2px;
+    padding-top: 1em;
+ 
+    
+}
+.containerlogo{
+    display: flex;
+   
+}
+.branddiv{
+    color: #f88a88;
+}
+.rede{
+    display: flex;
+    align-items: center;
+}
+.img{
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #f88a88;
+    height: 50px;
+    width: 50px;
+    border-width: 4px;
+}
+
+
+.listarede{
+    list-style: none;
+    display: flex;
+    font-size: 150%;
+}
+.listaelemento{
+    padding: 0.5em;
+    color: #f88a88;
+}
+.listabrandelement{
+    color: #f88a88;
+}
+.listabrand{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}

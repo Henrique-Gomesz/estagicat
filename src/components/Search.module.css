@@ -1,0 +1,24 @@
+.input{
+    border-radius: 150px;
+    width: 100%;
+    border-color: #f88a88;
+    border-width: 2px;
+}
+.input[type=text]:focus{
+    border-color: #f88a88;
+}
+.container{
+    padding-top: 1em;
+    display: flex;
+}
+.search{
+    padding: 0.5em;
+    color: #f88a88;
+    font-size: 20px;
+}
+.btn{
+    opacity: 90%;
+    border-radius: 50%;
+    color: #f88a88;
+    border-color:  #f88a88;
+}

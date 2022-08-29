@@ -1,0 +1,35 @@
+.container{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.btn{
+    padding-top: 7em;
+    display: flex;
+    justify-content: center;
+  
+}
+.btnb{
+    border-style: none;
+    border-radius: 10px;
+    background-color: #eea8a7;
+    color: white;
+    box-shadow: 1px 1px black ;
+    padding: 4px;
+    
+}
+.span{
+    padding: 0.5em;
+}
+.titulo{
+    color: #eea8a7;
+    font-weight: bold;
+    font-size: 80px;
+}
+.desc{
+    color: #eea8a7;
+    font-size: 20px;
+    font-style: oblique;
+}
